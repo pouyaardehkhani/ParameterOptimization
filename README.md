@@ -1,4 +1,4 @@
-# ParameterOptimization ![license](https://img.shields.io/github/license/pouyaardehkhani/ParameterOptimization.svg)
+# ParameterOptimization ![license](https://img.shields.io/github/license/pouyaardehkhani/ParameterOptimization.svg) 
 What I focus in this project:
 1. ***Difference between parameters and hyper-parameters***.
 2. Different ***Metrics***.
